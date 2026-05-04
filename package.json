@@ -7,7 +7,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "eslint",
-    "signaling": "node signaling-server/server.js"
+    "signaling": "node server.js"
   },
   "dependencies": {
     "bcryptjs": "^3.0.3",
